@@ -1,4 +1,3 @@
-from OCP import Geom
 from build123d import (
     Align,
     GeomType,
